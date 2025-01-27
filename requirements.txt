@@ -1,0 +1,6 @@
+Requirements :
+
+- Install Python (if not already installed): Download Python.
+
+- Install the required library using pip:
+  pip install pynput
